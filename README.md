@@ -1,6 +1,6 @@
-*To Run this application you will need both Node and FLask installed onto your device *
+*To Run this application you will need both Nodejs and FLask(python) and Requests(python) installed onto your device *
 
-*To Install Nodejs please go to https://nodejs.org/en/download/ and to install Flask please go to https://flask.palletsprojects.com/en/2.0.x/installation/ *
+*To Install Nodejs please go to https://nodejs.org/en/download/ and to install Flask please go to https://flask.palletsprojects.com/en/2.0.x/installation/ and to install Requests please go to https://pypi.org/project/requests/ *
 
 *Questionare answers in question.md *
 ---
@@ -95,6 +95,8 @@ Navigate to [localhost:5000](http://localhost:5000).
 ## To Run With Production Server:
 
 *To Run this application with a production server you will need Waitress(python) installed onto your device *
+
+*To Install Waitress please go to https://pypi.org/project/waitress/ *
 
 first start the server 
 

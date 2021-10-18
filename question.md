@@ -1,7 +1,7 @@
 # Questionarre
 1. Are there any sub-optimal choices( or short-cuts taken due to limited time ) in your implementation?
 
-To retrieve the Exchange rate date I used fetch() but could have used Axios as it supports older browsers.
+To retrieve the Exchange rate data I used fetch() but could have used Axios as it supports older browsers.
 
 2. Is any part of it over-designed? ( It is fine to over-design to showcase your skills as long as you are clear about it)
 
@@ -17,4 +17,5 @@ Nodejs is also designed as an event-driven environment, allowing for easier and 
 
 Some other enhancements I would make if given more time is improve the front end.
 The front end is basic, with more time I could make it more appealing along with display the
-data in different ways such as graphs and charts for both prices and recommendations.
+data in different ways such as graphs and charts for both prices and recommendations. I would also write unit tests along 
+with add more error handling.

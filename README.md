@@ -38,7 +38,8 @@ https://www.kraken.com
 The backend consists of 4 Api's that call onto its corresponding exchange rate api to fetch the exchange rate data in json format. The fron end calls on the backend api's and retreives the exchange rate data. The front end then parses the data and displays it accordingly.
 
 Main code is in src/App.svelte
-the server/api are in server.py for develppment server and server2.py for production server
+
+The server/api are in server.py for develppment server and server2.py for production server
 
 ## Get started
 *These installation an Deployment Instructions are meant for MAC OS *

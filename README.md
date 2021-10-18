@@ -37,7 +37,7 @@ https://www.kraken.com
 The backend consists of 4 Api's that call onto its corresponding exchange rate api to fetch the exchange rate data in json format. The fron end calls on the backend api's and retreives the exchange rate data. The front end then parses the data and displays it accordingly.
 
 ## Get started
-
+*These installation an Deployment Instructions are meant for MAC OS *
 Download the Project
 
 ```bash

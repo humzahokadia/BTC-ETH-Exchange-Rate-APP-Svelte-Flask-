@@ -10,6 +10,18 @@ This project is a web app that is built using Svelte.js for the front end and Fl
 
 *Note that you will need to have [Node.js] and [Flask(Python)] installed.*
 
+## Exchange Sources
+
+For Bitcoin:
+https://www.bitfinex.com
+https://www.blockchain.com
+for Ethereum:
+https://www.bitfinex.com
+https://www.kraken.com
+
+## How It Works
+
+The backend consists of 4 Api's that call onto its corresponding exchange rate api to fetch the exchange rate data in json format. The fron end calls on the backend api's and retreives the exchange rate data. The front end then parses the data and displays it accordingly.
 
 ## Get started
 

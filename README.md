@@ -2,6 +2,7 @@
 
 *To Install Nodejs please go to https://nodejs.org/en/download/ and to install Flask please go to https://flask.palletsprojects.com/en/2.0.x/installation/ *
 
+*Questionare answers in question.md *
 ---
 
 # BTC/ETH Exchange Rate APP (Svelte +FLask)

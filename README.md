@@ -15,40 +15,40 @@ This project is a web app that is built using Svelte.js for the front end and Fl
 
 Download the Project
 
-```git clone https://github.com/humzahokadia/BTC-ETH-Exchange-Rate-APP-Svelte-Flask-.git
-
+```bash
+git clone https://github.com/humzahokadia/BTC-ETH-Exchange-Rate-APP-Svelte-Flask-.git
 ```
 
 next navigate to the folder
 
-```cd BTC-ETH-Exchange-Rate-APP-Svelte-Flask-
-
+```bash
+cd BTC-ETH-Exchange-Rate-APP-Svelte-Flask-
 ```
 
 now you are ready to run
 
 first start the server 
 
-```python server.py
-
+```bash
+python server.py
 ```
 
 next navigate to the public folder
 
-```cd public
-
+```bash
+cd public
 ```
 
 next install dependencies 
 
-```npm install
-
+```bash
+npm install
 ```
 
 and finally deploy the front end
 
-```npm run build
- 
+```bash
+npm run build 
 ```
 
 The application is now running...

@@ -13,10 +13,10 @@ This project is a web app that is built using Svelte.js for the front end and Fl
 ## Exchange Sources
 
 For Bitcoin:
-https://www.bitfinex.com
+https://www.bitfinex.com and 
 https://www.blockchain.com
 for Ethereum:
-https://www.bitfinex.com
+https://www.bitfinex.com and 
 https://www.kraken.com
 
 ## How It Works

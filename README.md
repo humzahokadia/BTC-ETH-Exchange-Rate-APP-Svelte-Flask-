@@ -38,7 +38,7 @@ cd BTC-ETH-Exchange-Rate-APP-Svelte-Flask-
 ```
 
 
-now you are ready to run:
+###now you are ready to run:
 
 
 

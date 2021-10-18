@@ -266,14 +266,9 @@
 		padding: 1em;
 		margin: 0 auto;
 	}
-	th{/* set table header to blue */
-		color:blue;
-	}
 	#border{/* set border to all elements with border id */
-		color:blue;
 		border-color:blue;
 		border:solid;
-		border-width:1px;
 	}
 	main {/* align main */
 		text-align: center;
@@ -282,7 +277,6 @@
 		width:100%;
 	}
 	h2{
-		color:blue;
 	}
 	h1 {
 		color: #ff3e00;

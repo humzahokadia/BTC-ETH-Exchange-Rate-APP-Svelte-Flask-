@@ -18,10 +18,18 @@ This project is a web app that is built using Svelte.js for the front end and Fl
 ## Exchange Sources
 
 For Bitcoin:
-https://www.bitfinex.com and 
+
+https://www.bitfinex.com 
+
+
 https://www.blockchain.com
+
+
 for Ethereum:
-https://www.bitfinex.com and 
+
+https://www.bitfinex.com 
+
+
 https://www.kraken.com
 
 ## How It Works
@@ -43,17 +51,23 @@ cd BTC-ETH-Exchange-Rate-APP-Svelte-Flask-
 ```
 
 
-## now you are ready to run:
+# How To Run:
 
+## To Run With Development Server:
 
+first set up the environment 
+```bash
+    export FLASK_APP=server.py
+    export FLASK_ENV=development
+    flask run
+```
 
-first start the server 
+then start the server 
 
 ```bash
 python server.py
 ```
-
-next navigate to the public folder
+in a new terminal tab navigate to the public folder
 
 ```bash
 cd public
@@ -73,37 +87,47 @@ npm run build
 
 The application is now running...
 
-Navigate to [localhost:5000](http://localhost:5000). You should see your app running.
-
-if you see this when running the app
-
-<img width="748" alt="Screen Shot 2021-10-18 at 1 29 21 AM" src="https://user-images.githubusercontent.com/86750392/137674643-bc50658b-eaa0-452a-b270-7b66ca45387d.png">
-
-the fix is easy all you need to do is 
-
-end the server
-```bash
-    ctrl + C 
-```
-then
-```bash
-    export FLASK_APP=server.py
-    export FLASK_ENV=development
-    flask run
-```
-after this you will see something similar to this
-
-<img width="419" alt="Screen Shot 2021-10-18 at 1 38 33 AM" src="https://user-images.githubusercontent.com/86750392/137674841-15d0d493-e418-48fb-aa48-a05ff77af97a.png">
-
-
-you can now run the server again and it will run similar to this
+Navigate to [localhost:5000](http://localhost:5000).
 
 <img width="580" alt="Screen Shot 2021-10-18 at 1 41 51 AM" src="https://user-images.githubusercontent.com/86750392/137675173-494d0bf9-eb99-4ca1-836e-4debf244a69a.png">
 
+## To Run With Production Server:
+
+*To Run this application with a production server you will need Waitress(python) installed onto your device *
+
+first start the server 
+
+```bash
+python server.py
+```
+in a new terminal tab navigate to the public folder
+
+```bash
+cd public
+```
+
+next install dependencies 
+
+```bash
+npm install
+```
+
+and finally deploy the front end
+
+```bash
+npm run build 
+```
+
+The application is now running...
+
+Navigate to [localhost:8080](http://localhost:8080). 
+
+or
+
+Navigate to [0.0.0.0:8080](http://0.0.0.0:8080).
 
 
-
-
+<img width="333" alt="Screen Shot 2021-10-18 at 2 06 08 AM" src="https://user-images.githubusercontent.com/86750392/137677670-0385d41f-1c31-42b0-aa62-d538d2197bca.png">
 
 
 

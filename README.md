@@ -37,7 +37,10 @@ next navigate to the folder
 cd BTC-ETH-Exchange-Rate-APP-Svelte-Flask-
 ```
 
-now you are ready to run
+
+now you are ready to run:
+
+
 
 first start the server 
 

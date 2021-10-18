@@ -98,7 +98,7 @@ Navigate to [localhost:5000](http://localhost:5000).
 first start the server 
 
 ```bash
-python server.py
+python server2.py
 ```
 in a new terminal tab navigate to the public folder
 

@@ -16,7 +16,7 @@ This project is a web app that is built using Svelte.js for the front end and Fl
 
 
 
-*Note that you will need to have [Node.js] and [Flask(Python)] installed. *
+*Note that you will need to have [Node.js] and [Flask(Python)] [Requests(Python)] installed. *
 
 ## Exchange Sources
 

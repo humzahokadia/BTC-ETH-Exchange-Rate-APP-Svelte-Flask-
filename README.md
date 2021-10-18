@@ -1,6 +1,6 @@
 *To Run this application you will need both Node and FLask installed onto your device *
 
-*To Install Nodejs please go to https://nodejs.org/en/download/ and to install Flask please go to https://flask.palletsprojects.com/en/2.0.x/installation/*
+*To Install Nodejs please go to https://nodejs.org/en/download/ and to install Flask please go to https://flask.palletsprojects.com/en/2.0.x/installation/ *
 
 ---
 

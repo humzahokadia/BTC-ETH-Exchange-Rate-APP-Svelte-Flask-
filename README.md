@@ -9,10 +9,12 @@
 
 This project is a web app that is built using Svelte.js for the front end and Flask(Python) for the back end. The purpose of this application is to fetch the data from two different sources for both Bitcoin and Ethereum and displays both buy and sell price for both sources. The application will also recommend the user on which exchange source to trade on along with the price difference between sources.
 
-<img width="1656" alt="Screen Shot 2021-10-18 at 3 39 29 PM" src="https://user-images.githubusercontent.com/86750392/137795915-f2df41b7-06c5-4a7c-a019-0ca441b8115f.png">
+<img width="952" alt="Screen Shot 2021-10-18 at 4 08 30 PM" src="https://user-images.githubusercontent.com/86750392/137799707-d0765b2b-d3e0-474a-9f3e-d23f0fb344a7.png">
 
 
-<img width="1669" alt="Screen Shot 2021-10-18 at 3 39 37 PM" src="https://user-images.githubusercontent.com/86750392/137795925-9e1325a0-fdf5-4d45-9be7-accf700ebc82.png">
+<img width="954" alt="Screen Shot 2021-10-18 at 4 07 41 PM" src="https://user-images.githubusercontent.com/86750392/137799625-400d479d-727f-4098-8bb3-2cbf6055d4cf.png">
+
+
 
 *Note that you will need to have [Node.js] and [Flask(Python)] installed. *
 

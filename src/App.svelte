@@ -165,7 +165,7 @@
 			<button on:click={handleClick}><!-- update button -->
 				Update Data
 			</button>
-			<table style="width:50%"><!-- table to hold data and headers -->
+			<table CELLSPACING="0" style="width:50%"><!-- table to hold data and headers -->
 				<tr style="width:100%">
 					<th style="width:25%"  colspan="4">Bitcoin</th><!-- Coin Names -->
 				</tr>
@@ -210,7 +210,7 @@
 		<part2>
 			<h2><strong>Buy And Sell Recommendations</strong></h2><br>
 
-			<table style="width:50%">
+			<table CELLSPACING="0" style="width:50%">
 				<tr style="width:100%">
 					<th style="width:100%"  colspan="4">Bitcoin</th><!-- Coin Names -->
 				</tr>
@@ -269,6 +269,7 @@
 	#border{/* set border to all elements with border id */
 		border-color:blue;
 		border:solid;
+		border-width:1px;
 	}
 	main {/* align main */
 		text-align: center;
